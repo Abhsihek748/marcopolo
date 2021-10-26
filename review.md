@@ -1,0 +1,4 @@
+- Project should not contain node_modules
+- Share postman collection for your apis, I am not able to access  
+- Add inline comments to your code
+- Steps for how to setup project in local machine is missing
